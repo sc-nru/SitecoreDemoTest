@@ -1,0 +1,10 @@
+tls:
+  certificates:
+    - certFile: C:\etc\traefik\certs\cm.globalhost.crt
+      keyFile: C:\etc\traefik\certs\cm.globalhost.key
+    - certFile: C:\etc\traefik\certs\id.globalhost.crt
+      keyFile: C:\etc\traefik\certs\id.globalhost.key
+    - certFile: C:\etc\traefik\certs\cd.globalhost.crt
+      keyFile: C:\etc\traefik\certs\cd.globalhost.key
+    - certFile: C:\etc\traefik\certs\hrz.globalhost.crt
+      keyFile: C:\etc\traefik\certs\hrz.globalhost.key

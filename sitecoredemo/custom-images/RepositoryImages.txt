@@ -1,0 +1,10 @@
+You will need to push these images to Azure Container Registry
+
+
+az login
+az acr login --name mysitecorecontainerregistry007
+docker push mysitecorecontainerregistry007.azurecr.io/sitecorek8sdemo-xm1-cd:latest
+docker push mysitecorecontainerregistry007.azurecr.io/sitecorek8sdemo-xm1-cm:latest
+docker push mysitecorecontainerregistry007.azurecr.io/sitecorek8sdemo-id:latest
+docker push mysitecorecontainerregistry007.azurecr.io/sitecorek8sdemo-solution:latest
+docker push mysitecorecontainerregistry007.azurecr.io/sitecorek8sdemo-xm1-solr-init:latest

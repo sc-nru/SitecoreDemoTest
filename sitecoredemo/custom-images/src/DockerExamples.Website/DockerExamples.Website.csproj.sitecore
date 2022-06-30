@@ -1,0 +1,14 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="https://cm.globalhost" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <File Include="/layouts/ViewLayout1.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{B4CD7D0A-A4C1-4666-B29B-15E47471A3F8}</Item>
+  </File>
+  <File Include="Views\Events\SiteLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{2D591F27-1CB4-4B18-8948-6C539DC7086E}</Item>
+  </File>
+  <File Include="/Views/Events/SiteLayout.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{2D591F27-1CB4-4B18-8948-6C539DC7086E}</Item>
+  </File>
+</Project>
